@@ -1,0 +1,30 @@
+  .one{
+      height: 100px;
+      width: 100%;
+      background-color: rgb(219, 163, 163);
+       padding: 50px;
+      border: 20px solid rgb(79, 49, 97);
+      margin: 50px; 
+      display: inline-block;
+  }
+
+  .one_child{
+      height: 100px;
+      width: 150%;
+      background-color: rgb(148, 112, 156);
+  }
+
+  .one_child_1{
+    height: 100px;
+    width: 150%;
+    background-color: rgb(126, 12, 116);
+}
+.one_child_2{
+    height: 100px;
+    width: 150%;
+    background-color: rgb(104, 48, 99);
+}
+  
+
+
+ 
